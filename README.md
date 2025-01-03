@@ -25,4 +25,11 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHarold0-0)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="#">
+    <img height=200 align="center" alt="Harold's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DevHarold0-0&theme=transparent&show_icons=true&include_all_commits=true&custom_title=Harold's%20GitHub%20Stats">
+  </a>
+  <a href="#">
+    <img height=200 align="center" alt="Harold's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHarold0-0&theme=transparent&layout=compact&langs_count=8">
+  </a>
+</div>
