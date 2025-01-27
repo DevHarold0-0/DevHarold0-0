@@ -4,7 +4,7 @@
 </p>
 
 - 👀 I’m interested in **Web Development**, **Cloud Computing Technologies**, **Raspberry Pi**, **Graphic Design**, **Linux**, **Blender**, and **Open Source**.
-- 🌱 I’m currently learning **Go**, **Sveltkit**, **TypeScript**, **Ruby on Rails**, **Docker**, and **Kubernetes**.
+- 🌱 I’m currently learning **Go**, **Sveltkit**, **TypeScript**, **Docker**, and **Kubernetes**.
 - 💙 My Obsession? **Simple**, **Beautiful**, and **Clean** UI/UX.
 - ✍️ I'm a Markdown enthusiast. 
 
