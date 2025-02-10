@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=To+Err+Is+Human;+To+Edit%2C+Divine." alt="Typing SVG" /></a>
 </p>
 
-- 👀 I’m interested in **Web Development**, **Cloud Computing Technologies**, **Raspberry Pi**, **Graphic Design**, **Linux**, **Blender**, and **Open Source**.
+- 👀 I’m interested in **Web Development**, **Cloud Computing Technologies**, **Raspberry Pi**, **Graphic Design**, **Linux**, **Blender**.
 - 🌱 I’m currently learning **Go**, **HTMX**, **Docker**, and **Kubernetes**.
 - 💙 My Obsession? **Simple**, **Beautiful**, and **Clean** UI/UX.
 - ✍️ I'm a Markdown enthusiast. 
