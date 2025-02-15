@@ -6,7 +6,7 @@
 - 👀 I’m interested in **Web Development**, **Cloud Computing Technologies**, **Raspberry Pi**, and **Graphic Design**.
 - 🌱 I’m currently learning **Go**, **HTMX**, **Docker**, and **Kubernetes**.
 - 💙 My Obsession? **Simple**, **Beautiful**, and **Clean** UI/UX.
-- ✍️ I'm a Markdown enthusiast.
+- ✍️ I'm a Markdown enthusiast and an advid blogger.
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" height="15"><b> Tech Stack</b>
