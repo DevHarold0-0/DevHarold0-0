@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Kwasy </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=It+works+on+my+machine." alt="Typing SVG" /></a>
-</p>
+</div>
 
 - 👀 I’m interested in **Web Development**, **Raspberry Pi**, and **Graphic Design**.
 - 🌱 I’m currently ~~breaking~~ learning **HTMX**, **Docker**, and **Kubernetes**.
@@ -31,7 +31,7 @@
 
 
 
-<!-- Stats -->
+<!-- Stats
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="15"><b>Github Stats</b>
 
 <div align="center">
@@ -42,3 +42,4 @@
     <img height=200 align="center" alt="Kwasy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHarold0-0&theme=transparent&layout=compact&langs_count=8">
   </a>
 </div>
+-->
