@@ -4,7 +4,7 @@
 </p>
 
 - 👀 I’m interested in **Web Development**, **Cloud Computing Technologies**, **Raspberry Pi**, and **Graphic Design**.
-- 🌱 I’m currently learning **HTMX**, **Docker**, and **Kubernetes**.
+- 🌱 I’m currently playing around with **HTMX**, **Docker**, and **Kubernetes**.
 - 💙 My Obsession? **Simple**, **Beautiful**, and **Clean** UI/UX.
 - ✍️ I'm a Markdown enthusiast.
 
